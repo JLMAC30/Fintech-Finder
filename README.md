@@ -16,9 +16,8 @@ When you start the Ethereum Balance Tracker, you will see a web page that displa
 You can use the application to track your account balance by checking the balance periodically. The balance will update automatically every time you start the application.
 
 ## Visuals
-Here are some screenshots of the Ethereum Balance Tracker in action:
-
-Ethereum Balance Tracker
+[Ganache_Account_Page](https://imgur.com/gjeYpVz)
+[Streamlit_Fintech_Finder](https://imgur.com/a/ksZfvm1)
 
 ## License
 This project is licensed under the terms of the MIT license. See the LICENSE file for more information.
