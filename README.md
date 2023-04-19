@@ -1,4 +1,4 @@
-### Ethereum Balance Tracker
+# Ethereum Balance Tracker
 
 ## Background
 The Ethereum Balance Tracker is a web application that helps users track their Ethereum account balances. Ethereum is a decentralized blockchain platform that allows users to send and receive cryptocurrency. This application is designed to simplify the process of tracking account balances for users who are not familiar with the technicalities of the Ethereum blockchain.
