@@ -6,10 +6,10 @@ The Ethereum Balance Tracker is a web application that helps users track their E
 ## Installation
 To run the Ethereum Balance Tracker, you must first install Python and the required Python packages. You can do this using pip, the package manager for Python. Here are the steps to get started:
 
-1.Clone this repository to your local machine.
-2. Open a terminal or command prompt and navigate to the project directory.
-3. Install the required Python packages by running pip install -r requirements.txt.
-4. Start the application by running streamlit run main.py.
+* Clone this repository to your local machine.
+* Open a terminal or command prompt and navigate to the project directory.
+* Install the required Python packages by running pip install -r requirements.txt.
+* Start the application by running streamlit run main.py.
 ## Usage
 When you start the Ethereum Balance Tracker, you will see a web page that displays your Ethereum account address and balance in Ether. The account address is displayed in the sidebar, and the balance is displayed in the main section of the page.
 
